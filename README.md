@@ -1,10 +1,7 @@
 # OnlineOrder
 Java based Food Order System
 
-1. Backend:
-  Spring MVC
-  Spring core
-  Hibernate
+1. Backend: Spring MVC, Spring core, Hibernate
 
 2. Database: MySql
 
